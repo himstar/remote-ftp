@@ -1,0 +1,22 @@
+{
+  "name": "nodeftp",
+  "version": "1.0.0",
+  "description": "ftp api",
+  "main": "app",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "ftp": "^0.3.10",
+    "mongoose": "^5.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ftp",
+    "api"
+  ],
+  "author": "himanshu",
+  "license": "ISC"
+}
